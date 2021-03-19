@@ -15,5 +15,5 @@
 ![그림](https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fd5%2F5c%2F8b%2Fd55c8b2329977bf219d34e06ef6a82d0.jpg&type=sc960_832)
 
 
-[![안녕하세요](https://search.pstatic.net/common/?src=http%3A%2F%2Fimgnews.naver.net%2Fimage%2F5641%2F2020%2F11%2F24%2F2020112480014_0_20201124092647584.jpg&type=a340)](https://youtu.be/e0--itBVfa0)
+[![안녕하세요](https://search.pstatic.net/common/?src=http%3A%2F%2Fimgnews.naver.net%2Fimage%2F5759%2F2020%2F10%2F31%2F0000005920_001_20201031011755969.jpg&type=l340_165)](https://youtu.be/e0--itBVfa0)
 
