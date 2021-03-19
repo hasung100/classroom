@@ -18,7 +18,7 @@
 
 ```java
 public class BootSpringBootApplication {
-  public static void main(String[] args) {
+  public static void main(String[안녕] args) {
     System.out.println("안녕");
   }
 }
