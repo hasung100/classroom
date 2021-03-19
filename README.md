@@ -16,8 +16,11 @@
 
 [![안녕하세요](https://search.pstatic.net/common/?src=http%3A%2F%2Fimgnews.naver.net%2Fimage%2F5759%2F2020%2F10%2F31%2F0000005920_001_20201031011755969.jpg&type=l340_165)](https://youtu.be/e0--itBVfa0)
 
-
 ```java
-안녕
+public class BootSpringBootApplication {
+  public static void main(String[] args) {
+    System.out.println("안녕");
+  }
 }
 ```
+
