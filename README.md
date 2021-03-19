@@ -2,10 +2,10 @@
 
 ### 안녕하세요 박하성입니다
 ##### 정보과학수업
-> This is a first blockqute.
->	> This is a second blockqute.
->	>	> This is a third blockqute.
->	
+> [동영상이름](동영상 주소)
+>	> ![그림](그림주소)
+>	>	> [![그림](그림주소)](동영상주소)
+
 
 
 
